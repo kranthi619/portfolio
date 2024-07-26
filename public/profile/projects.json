@@ -1,0 +1,86 @@
+{
+    "projects": [
+        {
+            "title": "AWS Infrastructure Automation",
+            "bodyText": "- Automated the deployment and management of AWS infrastructure using **Terraform** and **Ansible**.\n - Configured and maintained **CI/CD pipelines** with Jenkins for automated deployments.\n - Implemented monitoring and alerting with **Prometheus** and **Grafana**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/kranthi619/Health-care-domain-project.git"
+                }
+            ],
+            "tags": [
+                "Terraform",
+                "Ansible",
+                "Jenkins",
+                "Prometheus",
+                "Grafana",
+                "AWS"
+            ]
+        },
+        {
+            "title": "Microservices Deployment on Kubernetes",
+            "bodyText": "- Deployed a microservices architecture using **Kubernetes** on AWS EKS.\n - Containerized applications with **Docker**, managing images and registries.\n - Implemented **Ingress** for load balancing and **Service Mesh** for traffic management.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/kranthi619/dev-pro.git"
+                }
+            ],
+            "tags": [
+                "Kubernetes",
+                "Docker",
+                "AWS EKS",
+                "Service Mesh",
+                "Microservices"
+            ]
+        },
+        {
+            "title": "Secure Chat Application Deployment",
+            "bodyText": "- Managed the deployment of a secure chat application on **AWS EC2** instances.\n - Utilized **IAM**, **VPC**, and **Security Groups** for secure network architecture.\n - Implemented **SSL/TLS** encryption and monitored application performance with **New Relic**.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/kranthi619/champ-nod.js.git"
+                }
+            ],
+            "tags": [
+                "AWS EC2",
+                "Security",
+                "IAM",
+                "VPC",
+                "New Relic",
+                "SSL/TLS"
+            ]
+        },
+        {
+            "title": "Continuous Integration and Deployment Pipeline",
+            "bodyText": "- Built and optimized CI/CD pipelines using **Jenkins**, integrated with **SonarQube** for code quality checks.\n - Managed artifacts using **Nexus3** and coordinated deployments with **Ansible**.\n - Conducted regular **security scans** with **Trivy** and implemented automated tests.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/kranthi619/Dev-Boardgame.git"
+                }
+            ],
+            "tags": [
+                "Jenkins",
+                "SonarQube",
+                "Nexus3",
+                "Trivy",
+                "Ansible",
+                "CI/CD"
+            ]
+        },
+        {
+            "title": "QuickBooks Application Deployment",
+            "bodyText": "- Deployed QuickBooks application on **AWS EC2** instances within a secure VPC.\n - Configured **VPN** and managed **Windows Server** and **Linux** environments.\n - Ensured data security and network integrity with **AWS Security Groups** and **Route Tables**.",
+            "tags": [
+                "AWS EC2",
+                "Windows Server",
+                "Linux",
+                "VPN",
+                "Security"
+            ]
+        }
+    ]
+}

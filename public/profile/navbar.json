@@ -1,0 +1,47 @@
+{
+    "logo" : {
+        "source": "images/logo.png",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Blog",
+            "href": "/blog"
+        },
+        {
+            "title": "LinkedIn",
+            "href": "https://www.linkedin.com/in/kranthi-putti-977558225/",
+            "type": "link"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/1PNpMewVD6eQP5ezzGbZLTJ4Ep8FRnGGU/view?usp=sharingS",
+            "type": "link"
+        }
+    ]
+}

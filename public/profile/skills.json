@@ -1,0 +1,148 @@
+{
+    "intro": "I am passionate about continuous learning and exploring cutting-edge technologies. Here are some of the major AWS cloud services and DevOps tools I have worked with:",
+    "skills": [
+        {
+            "title": "AWS Cloud Services",
+            "items": [
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "AWS"
+                }
+            ]
+        },
+        {
+            "title": "AWS Security",
+            "items": [
+                {
+                    "icon": "images/skills/waf.png",
+                    "title": "AWS WAF"
+                },
+                {
+                    "icon": "images/skills/inspector.png",
+                    "title": "AWS Inspector"
+                },
+                {
+                    "icon": "images/skills/guardduty.png",
+                    "title": "AWS GuardDuty"
+                }
+            ]
+        },
+        {
+            "title": "AWS Compute",
+            "items": [
+                {
+                    "icon": "images/skills/ec2.png",
+                    "title": "EC2"
+                },
+                {
+                    "icon": "images/skills/ecs.png",
+                    "title": "ECS"
+                },
+                {
+                    "icon": "images/skills/eks.png",
+                    "title": "EKS"
+                },
+                {
+                    "icon": "images/skills/lambda.png",
+                    "title": "Lambda"
+                }
+            ]
+        },
+        {
+            "title": "AWS Networking",
+            "items": [
+                {
+                    "icon": "images/skills/vpc.png",
+                    "title": "VPC"
+                },
+                {
+                    "icon": "images/skills/elb.png",
+                    "title": "ELB"
+                },
+                {
+                    "icon": "images/skills/route53.png",
+                    "title": "Route 53"
+                }
+            ]
+        },
+        {
+            "title": "AWS Developer Tools",
+            "items": [
+                {
+                    "icon": "images/skills/codecommit.png",
+                    "title": "CodeCommit"
+                },
+                {
+                    "icon": "images/skills/codebuild.png",
+                    "title": "CodeBuild"
+                },
+                {
+                    "icon": "images/skills/codedeploy.png",
+                    "title": "CodeDeploy"
+                }
+            ]
+        },
+        {
+            "title": "AWS Storage",
+            "items": [
+                {
+                    "icon": "images/skills/s3.png",
+                    "title": "S3"
+                },
+                {
+                    "icon": "images/skills/efs.png",
+                    "title": "EFS"
+                },
+                {
+                    "icon": "images/skills/glacier.png",
+                    "title": "Glacier"
+                }
+            ]
+        },
+        {
+            "title": "DevOps Tools & Technologies",
+            "items": [
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/kubernetes.png",
+                    "title": "Kubernetes"
+                },
+                {
+                    "icon": "images/skills/jenkins.png",
+                    "title": "Jenkins"
+                },
+                {
+                    "icon": "images/skills/terraform.png",
+                    "title": "Terraform"
+                },
+                {
+                    "icon": "images/skills/ansible.png",
+                    "title": "Ansible"
+                },
+                {
+                    "icon": "images/skills/sonarqube.png",
+                    "title": "SonarQube"
+                },
+                {
+                    "icon": "images/skills/trivy.png",
+                    "title": "Trivy"
+                },
+                {
+                    "icon": "images/skills/prometheus.png",
+                    "title": "Prometheus"
+                },
+                {
+                    "icon": "images/skills/grafana.png",
+                    "title": "Grafana"
+                },
+                {
+                    "icon": "images/skills/newrelic.png",
+                    "title": "New Relic"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "experiences": [
+        {
+            "title": "AWS DevOps Engineer",
+            "subtitle": "Advent Global Solutions Pvt Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Designed and implemented AWS infrastructure solutions with a focus on security, networking, and monitoring.",
+                "Developed and maintained CI/CD pipelines using Jenkins, automating application deployment and infrastructure management.",
+                "Expertise in containerization with Docker and orchestration using Kubernetes (K8s).",
+                "Leveraged Infrastructure as Code (IaC) tools like Terraform for provisioning and managing AWS resources.",
+                "Managed version control and collaborated on projects using Git.",
+                "Implemented security best practices across AWS services, ensuring compliance and data protection."
+            ],
+            "dateText": "2023 – Present"
+        },
+        {
+            "title": "DevOps Engineer Intern",
+            "subtitle": "StarAgile",
+            "workType": "Internship",
+            "workDescription": [
+                "Completed intensive training and hands-on projects to achieve DevOps certifications, including AWS Developer Associate and Cloud Practitioner.",
+                "Gained practical experience with DevOps tools such as Jenkins, Docker, and Kubernetes.",
+                "Developed a strong foundation in continuous integration and continuous deployment (CI/CD) practices."
+            ],
+            "dateText": "2022"
+        }
+    ]
+}
